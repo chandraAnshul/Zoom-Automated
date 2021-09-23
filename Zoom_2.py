@@ -1,7 +1,7 @@
 import pyautogui as auto
 import time
 from datetime import datetime
-lst = [['2128248039','PeaceTalk','22:58','23:00']]
+lst = [["user id",'password','startTime(hh:mm)','endTime(hh:mm)']]
 isStarted = False
 
 auto.press("win")
